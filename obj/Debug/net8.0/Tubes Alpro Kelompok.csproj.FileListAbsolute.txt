@@ -1,0 +1,22 @@
+C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\bin\Debug\net8.0\Tubes Alpro Kelompok.exe
+C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\bin\Debug\net8.0\Tubes Alpro Kelompok.deps.json
+C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\bin\Debug\net8.0\Tubes Alpro Kelompok.runtimeconfig.json
+C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\bin\Debug\net8.0\Tubes Alpro Kelompok.dll
+C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\bin\Debug\net8.0\Tubes Alpro Kelompok.pdb
+C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\bin\Debug\net8.0\NAudio.dll
+C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\bin\Debug\net8.0\NAudio.WinMM.dll
+C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\obj\Debug\net8.0\Tubes Alpro Kelompok.csproj.AssemblyReference.cache
+C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\obj\Debug\net8.0\Tubes Alpro Kelompok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\obj\Debug\net8.0\Tubes Alpro Kelompok.AssemblyInfoInputs.cache
+C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\obj\Debug\net8.0\Tubes Alpro Kelompok.AssemblyInfo.cs
+C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\obj\Debug\net8.0\Tubes Alpro Kelompok.csproj.CoreCompileInputs.cache
+C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\obj\Debug\net8.0\Tubes Al.3F9F914D.Up2Date
+C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\obj\Debug\net8.0\Tubes Alpro Kelompok.dll
+C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\obj\Debug\net8.0\refint\Tubes Alpro Kelompok.dll
+C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\obj\Debug\net8.0\Tubes Alpro Kelompok.pdb
+C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\obj\Debug\net8.0\Tubes Alpro Kelompok.genruntimeconfig.cache
+C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\obj\Debug\net8.0\ref\Tubes Alpro Kelompok.dll
