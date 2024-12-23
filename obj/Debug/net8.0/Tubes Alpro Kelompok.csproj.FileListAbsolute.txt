@@ -20,3 +20,4 @@ C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\obj\Debug\net8.0\refi
 C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\obj\Debug\net8.0\Tubes Alpro Kelompok.pdb
 C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\obj\Debug\net8.0\Tubes Alpro Kelompok.genruntimeconfig.cache
 C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\obj\Debug\net8.0\ref\Tubes Alpro Kelompok.dll
+C:\Users\Abel Christian Yahya\Desktop\Tubes Alpro Kelompok\obj\Debug\net8.0\Tubes Alpro Kelompok.sourcelink.json

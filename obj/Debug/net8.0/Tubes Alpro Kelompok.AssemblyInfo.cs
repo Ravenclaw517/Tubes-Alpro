@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tubes Alpro Kelompok")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04c6f8a9aaa4310e0b7a0196bed232c434ee0aed")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tubes Alpro Kelompok")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tubes Alpro Kelompok")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

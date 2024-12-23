@@ -33,7 +33,7 @@ public class MyProgram
         try
         {
             int pilihan = 0;
-            while (pilihan != 5)
+            while (pilihan != 6)
             {
                 Console.WriteLine("===PILIH KATEGORI LAGU===");
                 Console.WriteLine("==========================");
@@ -97,6 +97,10 @@ public class MyProgram
                         break;
 
                     case 5:
+                        SearchAndPlaySong(popSongs, articMonkeySongs, juicyLuicySongs);
+                        break;
+
+                    case 6:
                         Console.WriteLine("Keluar dari program...");
                         return;
 
@@ -131,8 +135,6 @@ public class MyProgram
         Console.WriteLine("Masukkan Password:");
         password = Console.ReadLine();
     }
-
-    
 
     // Metode untuk memutar musik
     static void PlayMusic(string filePath)
@@ -180,7 +182,7 @@ public class MyProgram
         {
             Console.WriteLine($"{i + 1}. {history[i]}");
         }
- 
+
         Console.WriteLine("Apakah Anda ingin menghapus history? (y/n)");
         string choice = Console.ReadLine();
         if (choice?.ToLower() == "y")
@@ -188,6 +190,47 @@ public class MyProgram
             history.Clear();
             Console.WriteLine("History telah dihapus.");
         }
-     
+
+    }
+
+    // Metode untuk mencari dan memutar lagu berdasarkan kata kunci
+    static void SearchAndPlaySong(string[] popSongs, string[] articMonkeySongs, string[] juicyLuicySongs)
+    {
+        Console.WriteLine("Masukkan kata kunci pencarian: ");
+        string keyword = Console.ReadLine()?.ToLower();
+
+        List<string> results = new List<string>();
+
+        // Mencari di setiap kategori lagu
+        results.AddRange(Array.FindAll(popSongs, song => song.ToLower().Contains(keyword)));
+        results.AddRange(Array.FindAll(articMonkeySongs, song => song.ToLower().Contains(keyword)));
+        results.AddRange(Array.FindAll(juicyLuicySongs, song => song.ToLower().Contains(keyword)));
+
+        if (results.Count == 0)
+        {
+            Console.WriteLine("Tidak ada lagu yang cocok dengan kata kunci.");
+        }
+        else
+        {
+            Console.WriteLine("Hasil Pencarian:");
+            for (int i = 0; i < results.Count; i++)
+            {
+                Console.WriteLine($"{i + 1}. {results[i]}");
+            }
+
+            Console.Write("Pilih nomor lagu untuk diputar (0 untuk batal): ");
+            int pilihan = Convert.ToInt32(Console.ReadLine());
+
+            if (pilihan > 0 && pilihan <= results.Count)
+            {
+                string selectedSong = results[pilihan - 1];
+                history.Add(selectedSong);
+                PlayMusic(selectedSong);
+            }
+            else
+            {
+                Console.WriteLine("Tidak ada lagu yang dipilih.");
+            }
+        }
     }
 }
